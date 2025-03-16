@@ -10,7 +10,7 @@
 
 ## Backend  
 The app integrates with a dedicated backend for enhanced functionality. You can find the backend repository here:  
-🔗 [Z Backend Repository](your-backend-repo-link-here)  
+🔗 [Z Backend Repository](https://github.com/HaykoDevelop/Z-Back)  
 
 ---
 
